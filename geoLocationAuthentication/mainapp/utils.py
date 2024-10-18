@@ -19,9 +19,7 @@ def get_client_ip():
         'longitude': longitude,
         'latitude': latitude
     }
-    print(dict_format)
 
     return dict_format
 
-get_client_ip()
 
