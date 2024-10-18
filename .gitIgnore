@@ -8,3 +8,4 @@ cython/
 migrations/
 *.db
 *.sqlite3
+*env/
