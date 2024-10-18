@@ -1,0 +1,10 @@
+./db.sqlite3
+__pycache__/
+*.pyc
+cython/
+*.so
+*.pyd
+*.log
+migrations/
+*.db
+*.sqlite3
