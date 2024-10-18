@@ -9,11 +9,11 @@ Image a website where you are being restricted based on your location, you wonde
 4. Create an authentication system that will restrict access to the website based on your location.
 
 ## Additional Features
-- ** Track User sessions **: To keep track of the user sessions.
-- ** Not allowing more than one session per user **: To prevent multiple users from accessing the website at the same time.
+- **Track User sessions**: To keep track of the user sessions.
+- **Not allowing more than one session per user**: To prevent multiple users from accessing the website at the same time.
 
 ## Pros of Geo Location
-- ** Location based authentication **: To restrict access to the website based on your location.
-- ** Makes sure you are the only one accessing the website **: To prevent multiple users from accessing the website at the same time.
+- **Location based authentication**: To restrict access to the website based on your location.
+- **Makes sure you are the only one accessing the website**: To prevent multiple users from accessing the website at the same time.
 
 Copyright (c) 2024 Sylvester Obeng
